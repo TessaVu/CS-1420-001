@@ -3,7 +3,6 @@
  * the Shape class with an isInside
  * method.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		26 October 2021
 */
@@ -23,7 +22,7 @@ import java.awt.Color;
 public class Circle extends Shape
 {
     // Instance variables.
-	// Declare private int radius.
+    // Declare private int radius.
     private int radius;
 
     /**
