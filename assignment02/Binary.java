@@ -1,7 +1,6 @@
 /* This class is a program that takes integers 1 to 255
  * from the user and converts them into binary format.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		02 September 2021
 */
@@ -12,7 +11,6 @@ import java.util.Scanner;
 
 public class Binary
 {
-
 	public static void main(String[] args)
 	{
 		Scanner input = new Scanner(System.in); // Create a scanner object.
@@ -53,7 +51,5 @@ public class Binary
 		System.out.print(" in binary.");
 		
 		input.close(); // Call close.
-
 	}
-
 }
