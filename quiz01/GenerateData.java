@@ -2,7 +2,6 @@
  * cat breeds then randomly picks an integer for the cat
  * age and randomly picks a double for the cat weight.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		18 September 2021
 */
@@ -15,7 +14,6 @@ import java.util.Scanner;
 
 public class GenerateData
 {
-
 	public static void main(String[] args) throws IOException
 	{
 		File filename = new File("DataNames.txt");
