@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class class03
 {
-
 	public static void main(String[] args)
 	{
 		int n = 2;
@@ -29,7 +28,5 @@ public class class03
 			
 			n++;
 		}
-
 	}
-
 }
