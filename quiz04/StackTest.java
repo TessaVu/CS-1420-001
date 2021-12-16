@@ -1,6 +1,6 @@
-/* This class is a program that 
+/* This class is a program that tests the Box
+ * and StackOfBoxes classes and their methods.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		09 December 2021
 */
