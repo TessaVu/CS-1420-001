@@ -5,7 +5,6 @@
  * shapes and two abstract methods:
  * isInside and draw.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		26 October 2021
 */
@@ -17,7 +16,7 @@ import java.awt.Color;
 abstract public class Shape
 {
     // Instance variables.
-	// Protected int x and y.
+    // Protected int x and y.
     protected int x, y;
     
     // Protected Color object color.
