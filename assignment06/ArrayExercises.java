@@ -2,7 +2,6 @@
  * randomArray, reverseOrder, count, replace,
  * computeAreas, remove, sort, and findSmallest.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		25 October 2021
 */
