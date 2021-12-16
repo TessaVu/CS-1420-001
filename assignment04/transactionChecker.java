@@ -7,7 +7,6 @@
  * arithmetic error, it prints that there are no
  * errors and ends.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		26 September 2021
 */
@@ -43,7 +42,6 @@ public class transactionChecker
 			fileScanner.next(); // Skip "TOTALING".
 
 			double recordedTotal = scanMoneyValue(fileScanner); // Store recorded total.
-//			double computedTotal = 0; // Declare variable to store computed total calculations.
 			
 			try
 			{
@@ -172,12 +170,6 @@ public class transactionChecker
 		{ // As long as i is less than the entry count loop and increment.
 			subAmount = scanOneTransaction(fileScanner); // Store subgroup amounts.
 			computedTotal += subAmount; // Calculate computed total for comparison with recorded total.
-			
-//			if(i = subEntryCount)
-//			{
-//				computedTotal = 0;
-//				
-//			}
 		}
 		
 		if(isNearlyEqual(computedTotal, recordedTotal) == true)
