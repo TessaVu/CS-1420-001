@@ -2,7 +2,6 @@
  * hypotenuse of a right triangle, given the
  * length of two sides provided by the user's input.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		02 September 2021
 */
@@ -13,7 +12,6 @@ import java.util.Scanner;
 
 public class Hypotenuse
 {
-
 	public static void main(String[] args)
 	{
 		Scanner inputA = new Scanner(System.in); // Create a scanner object for side A.
@@ -36,7 +34,5 @@ public class Hypotenuse
 		
 		inputA.close(); // Call close.
 		inputB.close();
-
 	}
-
 }
