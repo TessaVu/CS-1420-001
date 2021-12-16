@@ -1,6 +1,7 @@
-/* This class is a program that 
+/* This class is a program that is a stack of
+ * Box objects, which has accessors, mutators,
+ * and a method to remove a Box object.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		09 December 2021
 */
