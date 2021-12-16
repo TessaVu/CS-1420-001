@@ -3,7 +3,6 @@
  * the series will converge to one no matter what
  * starting positive integer is chosen.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		10 September 2021
 */
