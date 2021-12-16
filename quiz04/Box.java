@@ -1,6 +1,6 @@
-/* This class is a program that 
+/* This class is a program that creates a box class
+ * and has accessors and mutators.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		09 December 2021
 */
@@ -71,7 +71,6 @@ public class Box
 		// A single box (a box with a null 'underMe') is defined to have a height of 1.
 		// If there are boxes under the current one, the height of the current box is
 		// 1 + the height of the box under the current box.
-		
 		
 		return 0;
 	}
