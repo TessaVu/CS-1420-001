@@ -2,10 +2,8 @@ package lab02;
 
 public class Experiment1
 {
-	
 	public static void main(String[] args)
 	{
-
 		/*****************
 		 * Experiment #1 *
 		 *****************/		
@@ -34,7 +32,5 @@ public class Experiment1
 			computerWord = "scissors";
 		
 		System.out.println("Experiment #1: The computer chose: " + computerWord);
-
 	}
-
 }
