@@ -2,7 +2,7 @@
  *  Unfortunately, there weren't any interesting ones, so
  *  I manually added a few to the text file.  ;)
  *  
- *  Peter Jensen
+ *  Tessa Vu
  *  September 15, 2021
  */
 package assignment5;
