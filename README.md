@@ -42,3 +42,13 @@ Quiz 1: Data Generation, File Reading, User Input
 Quiz 2: Rectangle Class, Rectangle Calculation Methods
 
 Quiz 4: Boxes (references and polymorphism)
+
+## Project: Tower Defense Game
+
+Checkpoint 1: Enemy Movement on a Path
+
+Checkpoint 2: Helper Class for Uploading/Updating Graphics
+
+Checkpoint 3: Enemies, Menu, Game Mechanics (credits, life, points)
+
+Checkpoint 4: Attack Effects, Removal, Tower Placement, Unique Element
