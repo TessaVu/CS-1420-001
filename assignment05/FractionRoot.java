@@ -3,7 +3,6 @@
  * input by using Newton's method.
  * 
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		04 October 2021
 */
