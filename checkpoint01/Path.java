@@ -20,7 +20,8 @@ import java.awt.Point;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-public class Path
+
+public class Path
 {
 	// Fields
 	// Keep the path in an ArrayList object, the path is a list of points.
