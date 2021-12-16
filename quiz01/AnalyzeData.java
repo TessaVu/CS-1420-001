@@ -3,7 +3,6 @@
  * iterations to go through, then prints
  * the oldest cat and the fattest cat.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		18 September 2021
 */
