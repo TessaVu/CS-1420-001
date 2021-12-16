@@ -2,7 +2,6 @@
  * the Rectangle.java class and its
  * methods.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		08 October 2021
 */
