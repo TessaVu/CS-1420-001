@@ -3,7 +3,6 @@
  * in the FractionTester program.
  * 
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		04 October 2021
 */
