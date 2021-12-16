@@ -3,7 +3,6 @@
  * the Shape class with an isInside
  * method.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		26 October 2021
 */
@@ -22,7 +21,7 @@ import java.awt.Color;
  */
 public class Rect extends Shape
 {
-    // Instance variables.
+    	// Instance variables.
 	// Declare private int height and width.
 	private int height, width;
 
