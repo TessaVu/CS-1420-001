@@ -1,7 +1,6 @@
 /* This class is a program that, with the help of the
  * user's input, the area of a circle will be calculated.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		02 September 2021
 */
@@ -12,7 +11,6 @@ import java.util.Scanner;
 
 public class CircleArea
 {
-
 	public static void main(String[] args)
 	{
 		Scanner input = new Scanner(System.in); // Create a scanner object.
@@ -31,5 +29,4 @@ public class CircleArea
 		
 		input.close(); // Call close.
 	}
-
 }
