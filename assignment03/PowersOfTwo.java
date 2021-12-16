@@ -1,7 +1,6 @@
 /* This class is a program that uses a loop to output
  * the powers of two from 2^0 through 2^16, inclusive.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		10 September 2021
 */
