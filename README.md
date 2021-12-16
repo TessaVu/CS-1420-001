@@ -33,7 +33,7 @@ Lab 7: Sorting Arrays and JUnit Tests (arrays, arrays as object references, arra
 
 Lab 8: Abstract Classes (abstraction)
 
-Lab 9: GUI Application (GUIs)
+Lab 9: Calculator Application (GUIs)
 
 ## Quizzes
 
