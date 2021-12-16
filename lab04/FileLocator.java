@@ -4,7 +4,6 @@
  * recursively lists all the files within the search
  * folder.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		21 September 2021
 */
