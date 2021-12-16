@@ -9,7 +9,6 @@ package assignment01;
 
 public class TimeCalculation
 {
-
 	public static void main(String[] args)
 	{
 		int uID = 847438; // Omitted the leading 0 to avoid an error.
@@ -29,5 +28,4 @@ public class TimeCalculation
 		System.out.print((totalMinutes%60) + " minute(s), and "); // Compute and print out remainders.
 		System.out.print((totalSeconds%60) + " second(s).");
 	}
-
 }
