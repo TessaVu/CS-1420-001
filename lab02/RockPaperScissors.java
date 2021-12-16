@@ -14,7 +14,6 @@ public class RockPaperScissors
 {
 	public static void main(String[] args)
 	{
-		
 		Scanner in = new Scanner(System.in); // Create a scanner object.
 
 		String computerWord = "";
@@ -34,8 +33,7 @@ public class RockPaperScissors
 		boolean userInputIsOK = false;
 		
 		while (!userInputIsOK) // Loop as long as the user input is not okay (i.e. not rock, paper, nor scissors).
-		{
-			
+		{	
 			System.out.print("Enter rock, paper, or scissors: ");
 			userWord = in.next();
 			
@@ -45,7 +43,6 @@ public class RockPaperScissors
 				userInputIsOK = true;
 			if (userWord.equals("scissors"))
 				userInputIsOK = true;			
-			
 		}
 		
 		System.out.println("I picked " + computerWord + ".");
@@ -66,7 +63,6 @@ public class RockPaperScissors
 		else
 			System.out.print("You win.");
 		
-		in.close(); // Call close.
-
+		in.close(); // Call closed.
 	}
 }
