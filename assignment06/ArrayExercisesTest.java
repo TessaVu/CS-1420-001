@@ -2,7 +2,6 @@
  * program to test ArrayExercises' methods
  * with a variety of cases.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		25 October 2021
 */
