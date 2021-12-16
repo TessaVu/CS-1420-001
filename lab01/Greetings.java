@@ -27,7 +27,6 @@ package lab01;
 
 public class Greetings
 {
-	
 	// The 'main' method, where execution will begin.
 	
 	public static void main(String[] args) 
@@ -41,7 +40,5 @@ public class Greetings
 		feet = inches / 12;
 		
 		System.out.println(feet);
-		
 	}
-
 }
