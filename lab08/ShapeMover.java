@@ -3,7 +3,6 @@
  * for the user to click and drag within 
  * the window.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		26 October 2021
 */
@@ -26,9 +25,9 @@ public class ShapeMover extends JPanel implements MouseListener,
                                                   Runnable
 {
     // Declare instance variables.
-	// Shape array shapes.
-	Shape[] shapes;
-	// int lastX and lastY.
+    // Shape array shapes.
+    Shape[] shapes;
+    // int lastX and lastY.
     int lastX, lastY;
     // Shape object current.
     Shape current;
