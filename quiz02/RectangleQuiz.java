@@ -5,7 +5,6 @@
  * surface area and volume, and a mutator
  * to alter the fourth field.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		08 October 2021
 */
