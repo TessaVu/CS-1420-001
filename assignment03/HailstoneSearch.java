@@ -4,7 +4,6 @@
  * that the Hailstone sequence for the integer
  * takes exactly the user inputed iterations.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		10 September 2021
 */
