@@ -2,7 +2,6 @@
  * Fahrenheit temperature to Celsius temperature given
  * the Fahrenheit temperature from the user's input.
  * @author		Tessa Vu
- * @professor	Dr. Jensen
  * @course		CS 1420-001
  * @version		02 September 2021
 */
@@ -13,7 +12,6 @@ import java.util.Scanner;
 
 public class Temperature
 {
-
 	public static void main(String[] args)
 	{
 		Scanner input = new Scanner(System.in); // Create a scanner object.
@@ -29,7 +27,5 @@ public class Temperature
 		System.out.print(fahrenheit + " degree(s) Fahrenheit is equal to " + celsius + " degree(s) Celsius."); // Return the answer from the user's input.
 		
 		input.close(); // Call close.
-
 	}
-
 }
